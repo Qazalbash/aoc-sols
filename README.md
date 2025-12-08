@@ -1,6 +1,6 @@
-# 🎄 [Advent of Code](https://adventofcode.com)
+# [Advent of Code - Solutions][AOC]
 
-Welcome to my repository where I share my solutions for the Advent of Code challenges. Advent of Code is an annual set of Christmas-themed programming puzzles that cover a variety of skill sets and challenge types.
+You will find the solution of problems that I happen to solve, that are available on [Advent of Code][AOC]. This adventure is an opportunity for me to practice Rust programming language.
 
 ## Repository Structure
 
@@ -11,6 +11,7 @@ aoc-sols
 ├── year
 │   └── dayN
 │       ├── src
+│       │   ├── input.rs
 │       │   └── lib.rs
 │       ├── Cargo.lock
 │       └── Cargo.toml
@@ -28,8 +29,4 @@ cargo test
 
 While this is a personal project for Advent of Code, I am open to suggestions and discussions. Feel free to open an issue if you have any questions or suggestions.
 
-## Connect with Me
-
-- **GitHub:** [Qazalbash](https://github.com/Qazalbash)
-- **LinkedIn:** [Meesum Qazalbash](https://www.linkedin.com/in/meesumaliqazalbash/)
-- **LeetCode:** [maq2628](https://leetcode.com/maq2628)
+[AOC]: https://adventofcode.com
