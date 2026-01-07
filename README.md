@@ -1,6 +1,6 @@
 # [Advent of Code - Solutions][AOC]
 
-You will find the solution of problems that I happen to solve, that are available on [Advent of Code][AOC]. This adventure is an opportunity for me to practice Rust programming language.
+You will find the solution of problems that I have solved, which are available on [Advent of Code][AOC]. This adventure is an opportunity for me to practice the Rust programming language.
 
 ## Repository Structure
 
@@ -13,7 +13,6 @@ aoc-sols
 │       ├── src
 │       │   ├── input.rs
 │       │   └── lib.rs
-│       ├── Cargo.lock
 │       └── Cargo.toml
 └── README.md
 ```
